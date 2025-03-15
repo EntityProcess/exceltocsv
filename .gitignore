@@ -365,3 +365,4 @@ FodyWeavers.xsd
 # Project
 /GitContentSearch/Properties/launchSettings.json
 repomix-output.txt
+/Properties/launchSettings.json

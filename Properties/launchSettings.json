@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "ExcelToCsv": {
-      "commandName": "Project",
-      "commandLineArgs": "\"C:\\Users\\christopher.tso\\OneDrive - WiseTech Global Pty Ltd\\Desktop\\Apps\\GIT Workspaces.xlsx\""
-    }
-  }
-}
