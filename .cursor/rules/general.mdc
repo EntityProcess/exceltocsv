@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+Purpose: This CLI app converts legacy Excel (.xls) files to csv.
+Dependencies: NPOI
+Tech Stack: C# 13
+Coding Style: SOLID principles, modular code, C# coding conventions.
